@@ -1255,10 +1255,10 @@
   resolved "https://registry.yarnpkg.com/@d4kmor/core/-/core-0.1.3.tgz#5493fc495608257dade8778acade49d14eda6b05"
   integrity sha512-v+Np3i6toU3pLqI4pOMLKb/Fj/DYw85W5aagAFWSyhLjrLJlsN65NKkwP6QDS0YwUtLLWDa5eaDpLElpj4XwUQ==
 
-"@d4kmor/drawer@^0.2.1":
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/@d4kmor/drawer/-/drawer-0.2.4.tgz#56f02918afe11b321672cd522181498d71ac6039"
-  integrity sha512-6vqqGQeYxxjKRQYLqkrg8+TxKpc1/yhJrFAjzT3HcMvrq+OaSIFqbDjESU85iRI4Fu6whAthTR60F5jsyWEHog==
+"@d4kmor/drawer@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@d4kmor/drawer/-/drawer-0.3.0.tgz#81af7699d6a4460f5764d5ba1dcbb87185dd45fc"
+  integrity sha512-NekZ2+ZtXBVo4S0yDAmXQ/ueo0fQl6E7kPa0pwMaLWv0UsrI7FrLfshLcCgerRmXx/1AwKqnySX+7BnRR0rqtQ==
   dependencies:
     "@lion/overlays" "^0.22.5"
     lit-element "^2.3.1"
@@ -1280,18 +1280,18 @@
     dependency-graph "^0.8.1"
     sax-wasm "^1.4.5"
 
-"@d4kmor/launch@^0.7.0":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/@d4kmor/launch/-/launch-0.7.0.tgz#8e934366ad71c03bb31cd297e73b95f74a2728e4"
-  integrity sha512-sgTVw71JC08Z4A6m2tCl5vIS4KQs43a8lmeghpz8ax2Blc54RVNlrWTz2MuwpwJgLrrxpx1YStUzCA5MjW7WEg==
+"@d4kmor/launch@^0.10.1":
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/@d4kmor/launch/-/launch-0.10.1.tgz#d2986a417a3459335daf38787a5cc90d06d92121"
+  integrity sha512-VFHvos/33jKhdSNa/Mh9JIDgGrkuObSxWBCcR9JiXPT0l+c+cKtF9Vf1VqQL06HlW25T3nkLAb5vQKN9ovFTSQ==
   dependencies:
-    "@d4kmor/drawer" "^0.2.1"
-    "@d4kmor/navigation" "^0.2.0"
+    "@d4kmor/drawer" "^0.3.0"
+    "@d4kmor/navigation" "^0.3.0"
 
-"@d4kmor/navigation@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@d4kmor/navigation/-/navigation-0.2.0.tgz#04b412cdb056370dd560d615b4f538eda3916868"
-  integrity sha512-wX96eMy7jZ222kPxhsSCuIk3ZYnJDk3q96qkv75UyvKFhIIHOOrznuIDJB7BVzEwKW+f6PyvN473VtHNFAiPSw==
+"@d4kmor/navigation@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@d4kmor/navigation/-/navigation-0.3.0.tgz#ffea2f6d2c6ee31b7d3e70f2609bf221b0b3227b"
+  integrity sha512-UGGFBWxD6bcN4CVFr2/6Po9lv52FOfJfrZpgs759wEb8qkhHJInXFn7gdL3IgZxMUitkwRDa750PjcsJSR1n+Q==
 
 "@d4kmor/search@^0.1.2":
   version "0.1.2"
